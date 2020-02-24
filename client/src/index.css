@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand:500|Roboto:500&display=swap');
+body {
+	margin: 0;
+	font-family: 'Quicksand', sans-serif;
+	letter-spacing: 1px;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+#root {
+	min-height: stretch;
+}
